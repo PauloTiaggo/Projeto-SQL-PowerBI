@@ -148,7 +148,7 @@ Com os dados e medidas importados, é possível criar dashboards interativos no 
 * Cartão para exibir a Quantidade de Clientes.
 * Gráfico de barras para Quantidade Vendida por Mês.
 * Mapa para visualizar o Lucro por País.
-* Aba Clientes:
+### Aba Clientes:
 * Mapa para exibir Vendas por País.
 * Gráfico de barras empilhadas para Clientes por País.
 * Gráfico de pizza para Vendas por Gênero.
