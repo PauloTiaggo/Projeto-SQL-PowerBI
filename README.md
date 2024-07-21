@@ -145,6 +145,7 @@ Com os dados e medidas importados, será realizado um dashboard no Power BI para
 * Gráfico de barras para Vendas por Categoria de Produto.
 
 ## Dashboard Final
-![Vendas por Mês](imagens/ReceitaByMes.PNG)
+![Visão Geral](imagens/Captura de tela 2024-07-20 195801.png)
+![Clientes](imagens/Captura de tela 2024-07-20 195801.png)
 ## Considerações Finais
 O projeto de integração entre SQL Server e Power BI utilizando o banco de dados AdventureWorks 2022 visa fornecer uma solução completa para análise de dados de vendas e clientes. Através da definição de indicadores, criação de views, estabelecimento de relacionamentos e desenvolvimento de dashboards, é possível obter insights valiosos que podem auxiliar na tomada de decisões estratégicas para a organização.
